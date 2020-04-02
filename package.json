@@ -1,0 +1,26 @@
+{
+  "name": "react-native-menu-viewer",
+  "version": "1.0.0",
+  "description": "A package to make a scrollable Grid Menu component with individual screen attached to it",
+  "main": "ReactNativeMenuViewer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React-Native-Menu-Viewer",
+    "ReactNativeMenuViewer",
+    "Menu navigation",
+    "easy to use grid view menu navigation"
+  ],
+  "author" : {
+    "name":"rishabh goel",
+    "email":"goelrishabh99@gmail.com",
+    "url":"https://www.linkedin.com/in/rishabh-goel-55a25b135/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.5",
+    "react-native-vector-icons": "^6.6.0"
+  }
+}
